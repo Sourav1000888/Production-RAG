@@ -10,6 +10,8 @@ class Setttings(BaseSettings):
 
     #database
     database_url:str = ''
+    supabase_url:str = ''
+    supabase_key:str = ''
 
     #langsmith
 
