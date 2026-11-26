@@ -15,5 +15,6 @@
             "database": "DOT",
             "username": "DOT_owner"
         }
-    ]
+    ],
+    "python.terminal.useEnvFile": true
 }
